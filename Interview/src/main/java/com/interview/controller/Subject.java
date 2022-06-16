@@ -62,7 +62,8 @@ public class Subject {
 
                 case 3:
                     System.out.println("当前选择不进行购物");
-                    break;
+//                    break;
+                    return;
 
                 default:
                     System.out.println("啥也不需要");
